@@ -6,7 +6,7 @@ All 144 are listed below. Browse the newest on [warmada.com/jobs/chicago](https:
 
 **By role:** Software Engineering (6) · Hardware Engineering (1) · Data (5) · Product Management (4) · Design (2) · Marketing (6) · Sales (34) · Customer Success (7) · Operations (16) · Finance (7) · HR & Recruiting (5) · Legal & Compliance (3) · Other (48)
 
-**How it is built.** Warmada reads the public job boards of companies on Greenhouse, Ashby and Lever every day and keeps the postings that name a US location. A role is on this list when its posting names Chicago. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
+**How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Chicago. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
 A bad listing? Email hello@warmada.com with the link.
 
