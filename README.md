@@ -1,16 +1,16 @@
 # Chicago Jobs
 
-Open roles in Chicago: 144 roles at 47 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=chicago).** Last updated 2026-11-08.
+Open roles in Chicago: 136 roles at 45 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=chicago).** Last updated 2026-11-09.
 
-All 144 are listed below. Browse the newest on [warmada.com/jobs/chicago](https://warmada.com/jobs/chicago?utm_source=github&utm_medium=list&utm_campaign=chicago).
+All 136 are listed below. Browse the newest on [warmada.com/jobs/chicago](https://warmada.com/jobs/chicago?utm_source=github&utm_medium=list&utm_campaign=chicago).
 
-**By role:** Software Engineering (6) · Hardware Engineering (1) · Data (5) · Product Management (4) · Design (2) · Marketing (6) · Sales (34) · Customer Success (7) · Operations (16) · Finance (7) · HR & Recruiting (5) · Legal & Compliance (3) · Other (48)
+**By role:** Software Engineering (5) · Hardware Engineering (1) · Data (4) · Product Management (4) · Design (2) · Marketing (6) · Sales (32) · Customer Success (7) · Operations (15) · Finance (6) · HR & Recruiting (5) · Legal & Compliance (3) · Other (46)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Chicago. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
 A bad listing? Email hello@warmada.com with the link.
 
-## Software Engineering (6)
+## Software Engineering (5)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -19,7 +19,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [Stripe](https://warmada.com/companies/stripe?utm_source=github&utm_medium=list&utm_campaign=chicago) | Demo Engineer | Chicago | Nov 5 | [Apply](https://stripe.com/jobs/search?gh_jid=8338344) · [Find the hiring manager](https://warmada.com/job/stripe-demo-engineer-1a9e324c-f590-41d0-a343-cff0a3f13c47?utm_source=github&utm_medium=list&utm_campaign=chicago) |
 | [Adyen](https://warmada.com/companies/adyen?utm_source=github&utm_medium=list&utm_campaign=chicago) | Staff Engineer - Mobile Payments &amp; Terminal Experiences | Chicago | Nov 5 | [Apply](https://job-boards.greenhouse.io/adyen/jobs/8354657) · [Find the hiring manager](https://warmada.com/job/adyen-staff-engineer-mobile-payments-and-terminal-experiences-7e822c9a-a438-4a61-87b3-7ea9c7028e5e?utm_source=github&utm_medium=list&utm_campaign=chicago) |
 | [Fin](https://warmada.com/companies/fin?utm_source=github&utm_medium=list&utm_campaign=chicago) | Forward Deployed Engineer | Chicago, Illinois | Oct 30 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/8333679) · [Find the hiring manager](https://warmada.com/job/fin-forward-deployed-engineer-e758eba7-6595-4561-9840-226bc3b0c9df?utm_source=github&utm_medium=list&utm_campaign=chicago) |
-| Gelber Group | (Associate) Software Engineer- Trading Integrations Team | Chicago, IL | Oct 26 | [Apply](https://job-boards.greenhouse.io/gelbergroup/jobs/4724799006) · [Find the hiring manager](https://warmada.com/job/gelber-group-associate-software-engineer-trading-integrations-team-b12e54bc-7401-4ad7-8e0d-610aabfaaeaa?utm_source=github&utm_medium=list&utm_campaign=chicago) |
 
 ## Hardware Engineering (1)
 
@@ -27,7 +26,7 @@ A bad listing? Email hello@warmada.com with the link.
 | --- | --- | --- | --- | --- |
 | [Benesch](https://warmada.com/companies/benesch?utm_source=github&utm_medium=list&utm_campaign=chicago) | Railroad Track &amp; Civil Review/ Design Engineer – Public Projects | Atlanta, GA; Bellevue, NE; Charlotte, NC; Chicago, IL; Naperville, IL; Denver, CO; Kansas City, MO; Milwaukee, WI; Omaha, NE | Oct 29 | [Apply](https://www.benesch.com/job-openings/5261617007?gh_jid=5261617007) · [Find the hiring manager](https://warmada.com/job/benesch-railroad-track-and-civil-review-design-engineer-public-projects-160fad03-3ce0-4c21-94d3-507c23a57663?utm_source=github&utm_medium=list&utm_campaign=chicago) |
 
-## Data (5)
+## Data (4)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -35,7 +34,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [Tower Research Capital](https://warmada.com/companies/tower-research-capital?utm_source=github&utm_medium=list&utm_campaign=chicago) | Quantitative Researcher | Chicago, IL | Oct 30 | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8337292) · [Find the hiring manager](https://warmada.com/job/tower-research-capital-quantitative-researcher-3888f77a-b8eb-4f7d-90e3-79c13b771708?utm_source=github&utm_medium=list&utm_campaign=chicago) |
 | [84.51°](https://warmada.com/companies/84-51?utm_source=github&utm_medium=list&utm_campaign=chicago) | Lead Data Engineer | Cincinnati, OH; Chicago, IL | Oct 29 | [Apply](https://job-boards.greenhouse.io/8451/jobs/8773368002) · [Find the hiring manager](https://warmada.com/job/84-51-lead-data-engineer-66ea5630-58c6-49bd-a487-1e4cefba870b?utm_source=github&utm_medium=list&utm_campaign=chicago) |
 | [84.51°](https://warmada.com/companies/84-51?utm_source=github&utm_medium=list&utm_campaign=chicago) | Senior Data Engineer (P1754) (P1752) | Cincinnati, OH; Chicago, IL | Oct 29 | [Apply](https://job-boards.greenhouse.io/8451/jobs/8923332002) · [Find the hiring manager](https://warmada.com/job/84-51-senior-data-engineer-p1754-p1752-f3fddfcc-2cb6-4d5b-9b44-31880b873ad2?utm_source=github&utm_medium=list&utm_campaign=chicago) |
-| [Enova International](https://warmada.com/companies/enova-international?utm_source=github&utm_medium=list&utm_campaign=chicago) | Lead Data Scientist (Hybrid) | Chicago, IL | Oct 26 | [Apply](https://job-boards.greenhouse.io/enova/jobs/8324579) · [Find the hiring manager](https://warmada.com/job/enova-international-lead-data-scientist-hybrid-e265b904-16a9-4388-a340-77ef67f10363?utm_source=github&utm_medium=list&utm_campaign=chicago) |
 
 ## Product Management (4)
 
@@ -64,7 +62,7 @@ A bad listing? Email hello@warmada.com with the link.
 | [Mintel](https://warmada.com/companies/mintel?utm_source=github&utm_medium=list&utm_campaign=chicago) | Public Relations Associate | Chicago | Oct 30 | [Apply](https://www.mintel.com/job/8282524?gh_jid=8282524) · [Find the hiring manager](https://warmada.com/job/mintel-public-relations-associate-865d0dba-aa36-4fb3-9835-80a3e71c92b4?utm_source=github&utm_medium=list&utm_campaign=chicago) |
 | [Stripe](https://warmada.com/companies/stripe?utm_source=github&utm_medium=list&utm_campaign=chicago) | Marketing Strategy &amp; Operations Business Partner | San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US | Oct 28 | [Apply](https://stripe.com/jobs/search?gh_jid=8329719) · [Find the hiring manager](https://warmada.com/job/stripe-marketing-strategy-and-operations-business-partner-48bbe329-5f17-4c18-b1d2-7bf497adab4f?utm_source=github&utm_medium=list&utm_campaign=chicago) |
 
-## Sales (34)
+## Sales (32)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -100,8 +98,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [EquipmentShare](https://warmada.com/companies/equipmentshare?utm_source=github&utm_medium=list&utm_campaign=chicago) | Territory Account Manager (Pump, Power &amp; HVAC) | Chicago, IL (Southwest) (Advanced Solutions) | Oct 28 | [Apply](https://www.equipmentshare.com/careers/openings/?gh_jid=8331530) · [Find the hiring manager](https://warmada.com/job/equipmentshare-territory-account-manager-pump-power-and-hvac-60b25fdd-dc8a-4afa-83b3-05d63dbdbaaf?utm_source=github&utm_medium=list&utm_campaign=chicago) |
 | [Datadog](https://warmada.com/companies/datadog?utm_source=github&utm_medium=list&utm_campaign=chicago) | Enterprise Security Sales Specialist | Chicago, Illinois, USA | Oct 27 | [Apply](https://careers.datadoghq.com/detail/8237332/?gh_jid=8237332) · [Find the hiring manager](https://warmada.com/job/datadog-enterprise-security-sales-specialist-5daa0606-15c8-4dc8-8cf1-dbe6d1357408?utm_source=github&utm_medium=list&utm_campaign=chicago) |
 | [Flexport](https://warmada.com/companies/flexport?utm_source=github&utm_medium=list&utm_campaign=chicago) | Account Manager III, Fulfillment | Atlanta, Georgia, United States; Chicago, Illinois, United States; Dallas, Texas, United States; Los Angeles, California, United States | Oct 26 | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8325948) · [Find the hiring manager](https://warmada.com/job/flexport-account-manager-iii-fulfillment-22f92a6e-d5f9-4ae1-b7fc-379a511a628b?utm_source=github&utm_medium=list&utm_campaign=chicago) |
-| [horizon3.ai](https://warmada.com/companies/horizon3-ai?utm_source=github&utm_medium=list&utm_campaign=chicago) | Senior People Partner, GTM | Chicago, Illinois | Oct 26 | [Apply](https://jobs.ashbyhq.com/horizon3ai/15b17e1e-cbd7-46e9-8cf3-1ba8bea2efd9) · [Find the hiring manager](https://warmada.com/job/horizon3-ai-senior-people-partner-gtm-e3493ec6-f714-4b1d-8a46-64fcc71ecf1d?utm_source=github&utm_medium=list&utm_campaign=chicago) |
-| [Asana](https://warmada.com/companies/asana?utm_source=github&utm_medium=list&utm_campaign=chicago) | Sales Engineer | Chicago | Oct 26 | [Apply](https://www.asana.com/jobs/apply/8282422?gh_jid=8282422) · [Find the hiring manager](https://warmada.com/job/asana-sales-engineer-08cf1288-21bd-4640-bd76-6a1a74e1dc7f?utm_source=github&utm_medium=list&utm_campaign=chicago) |
 
 ## Customer Success (7)
 
@@ -115,7 +111,7 @@ A bad listing? Email hello@warmada.com with the link.
 | [Fin](https://warmada.com/companies/fin?utm_source=github&utm_medium=list&utm_campaign=chicago) | Principal Customer Success Manager | Chicago, Illinois; NYC, Remote; San Francisco, California | Oct 28 | [Apply](https://job-boards.greenhouse.io/intercom/jobs/8324859) · [Find the hiring manager](https://warmada.com/job/fin-principal-customer-success-manager-68cfca6e-a73d-423d-9d4b-65e531be7833?utm_source=github&utm_medium=list&utm_campaign=chicago) |
 | [Qualtrics](https://warmada.com/companies/qualtrics?utm_source=github&utm_medium=list&utm_campaign=chicago) | Technical Support Analyst | Chicago, Illinois, United States | Oct 27 | [Apply](https://www.qualtrics.com/careers/us/en/job/8316957?gh_jid=8316957) · [Find the hiring manager](https://warmada.com/job/qualtrics-technical-support-analyst-ee9c47f0-10df-4cec-b0e4-00a2ccbde8a1?utm_source=github&utm_medium=list&utm_campaign=chicago) |
 
-## Operations (16)
+## Operations (15)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -134,9 +130,8 @@ A bad listing? Email hello@warmada.com with the link.
 | [Qualtrics](https://warmada.com/companies/qualtrics?utm_source=github&utm_medium=list&utm_campaign=chicago) | Healthcare Program Manager | Chicago, Illinois, United States | Oct 28 | [Apply](https://www.qualtrics.com/careers/us/en/job/8316925?gh_jid=8316925) · [Find the hiring manager](https://warmada.com/job/qualtrics-healthcare-program-manager-6619505c-c580-4001-a554-4f57f5316d46?utm_source=github&utm_medium=list&utm_campaign=chicago) |
 | [Okta](https://warmada.com/companies/okta?utm_source=github&utm_medium=list&utm_campaign=chicago) | Technical Platform Administrator, Enablement Systems | Chicago, Illinois; New York, New York; San Francisco, California; Seattle, Washington | Oct 27 | [Apply](https://www.okta.com/company/careers/opportunity/8328599?gh_jid=8328599) · [Find the hiring manager](https://warmada.com/job/okta-technical-platform-administrator-enablement-systems-30f95ab7-8587-402e-9ac7-963ac6a687b4?utm_source=github&utm_medium=list&utm_campaign=chicago) |
 | [Asana](https://warmada.com/companies/asana?utm_source=github&utm_medium=list&utm_campaign=chicago) | CX Technical Enablement Partner | Chicago | Oct 27 | [Apply](https://www.asana.com/jobs/apply/8315830?gh_jid=8315830) · [Find the hiring manager](https://warmada.com/job/asana-cx-technical-enablement-partner-9382914f-cb02-4c86-b2fa-f893a3128d96?utm_source=github&utm_medium=list&utm_campaign=chicago) |
-| Talon.One | Senior Sales Operations Manager, AMER | Boston, Chicago, New York, San Francisco | Oct 26 | [Apply](https://www.talon.one/job-listing?gh_jid=5016391101) · [Find the hiring manager](https://warmada.com/job/talon-one-senior-sales-operations-manager-amer-dfaeca4f-173d-498f-b01e-a0425ee55b26?utm_source=github&utm_medium=list&utm_campaign=chicago) |
 
-## Finance (7)
+## Finance (6)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -146,7 +141,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [riveron.com](https://warmada.com/companies/riveron-com?utm_source=github&utm_medium=list&utm_campaign=chicago) | M&amp;A Tax Advisory Leader | Chicago, IL | Nov 3 | [Apply](https://jobs.ashbyhq.com/riveron/b2130eef-e1d5-4ee0-a85f-8278e101fef8) · [Find the hiring manager](https://warmada.com/job/riveron-com-m-and-a-tax-advisory-leader-807c656a-1a92-45a7-84e1-67b23f6cf099?utm_source=github&utm_medium=list&utm_campaign=chicago) |
 | [Robinhood](https://warmada.com/companies/robinhood?utm_source=github&utm_medium=list&utm_campaign=chicago) | Senior Payroll Tax Specialist | Chicago, IL; Menlo Park, CA; New York, NY | Oct 29 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8324648?t=gh_src=&gh_jid=8324648) · [Find the hiring manager](https://warmada.com/job/robinhood-senior-payroll-tax-specialist-7df3b967-3484-4c23-9b8c-ffdfd917d9dd?utm_source=github&utm_medium=list&utm_campaign=chicago) |
 | [Robinhood](https://warmada.com/companies/robinhood?utm_source=github&utm_medium=list&utm_campaign=chicago) | Trading Specialist | Chicago, IL; Denver, CO; Lake Mary, FL; New York, NY | Oct 26 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8289855?t=gh_src=&gh_jid=8289855) · [Find the hiring manager](https://warmada.com/job/robinhood-trading-specialist-d4418ef3-9048-4e0b-9f2b-d00e26da6371?utm_source=github&utm_medium=list&utm_campaign=chicago) |
-| Gelber Group | Experienced Discretionary Macro Markets Trader | Chicago, IL | Oct 26 | [Apply](https://job-boards.greenhouse.io/gelbergroup/jobs/4724666006) · [Find the hiring manager](https://warmada.com/job/gelber-group-experienced-discretionary-macro-markets-trader-d4259240-da39-419f-ad14-bfeeec6f6584?utm_source=github&utm_medium=list&utm_campaign=chicago) |
 
 ## HR & Recruiting (5)
 
@@ -166,7 +160,7 @@ A bad listing? Email hello@warmada.com with the link.
 | [Home Chef](https://warmada.com/companies/home-chef?utm_source=github&utm_medium=list&utm_campaign=chicago) | FSQA Program Compliance Specialist | Chicago, IL | Oct 29 | [Apply](https://job-boards.greenhouse.io/homechef/jobs/5459659008) · [Find the hiring manager](https://warmada.com/job/home-chef-fsqa-program-compliance-specialist-e19133d4-477f-484b-b6d2-e31dac62ece7?utm_source=github&utm_medium=list&utm_campaign=chicago) |
 | [Chime](https://warmada.com/companies/chime?utm_source=github&utm_medium=list&utm_campaign=chicago) | Sr. Analyst, Identity &amp; KYC | Chicago, IL, USA | Oct 27 | [Apply](https://boards.greenhouse.io/chime/jobs/8917560002?gh_jid=8917560002) · [Find the hiring manager](https://warmada.com/job/chime-sr-analyst-identity-and-kyc-e5ab17cf-c5fd-4591-92e4-0e4046117946?utm_source=github&utm_medium=list&utm_campaign=chicago) |
 
-## Other (48)
+## Other (46)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -216,5 +210,3 @@ A bad listing? Email hello@warmada.com with the link.
 | [Qualtrics](https://warmada.com/companies/qualtrics?utm_source=github&utm_medium=list&utm_campaign=chicago) | Manager, Delivery | Chicago, Illinois, United States | Oct 28 | [Apply](https://www.qualtrics.com/careers/us/en/job/8319588?gh_jid=8319588) · [Find the hiring manager](https://warmada.com/job/qualtrics-manager-delivery-09d35a0f-289b-4aed-a391-26ca8bbe8927?utm_source=github&utm_medium=list&utm_campaign=chicago) |
 | [Qualtrics](https://warmada.com/companies/qualtrics?utm_source=github&utm_medium=list&utm_campaign=chicago) | Local Search Coordinator | Chicago, Illinois, United States | Oct 27 | [Apply](https://www.qualtrics.com/careers/us/en/job/8316944?gh_jid=8316944) · [Find the hiring manager](https://warmada.com/job/qualtrics-local-search-coordinator-4e83947c-7b6e-4687-a69b-8410156b2fc3?utm_source=github&utm_medium=list&utm_campaign=chicago) |
 | [Bozzuto](https://warmada.com/companies/bozzuto?utm_source=github&utm_medium=list&utm_campaign=chicago) | Resident Experience Associate (Tues - Sat from 12pm - 8pm) | Chicago, IL, 60610 | Oct 27 | [Apply](https://www.bozzuto.com/careers/job-search/5464384008/?gh_jid=5464384008) · [Find the hiring manager](https://warmada.com/job/bozzuto-resident-experience-associate-tues-sat-from-12pm-8pm-ab9f841e-5155-4709-a8a3-a1a841f7976d?utm_source=github&utm_medium=list&utm_campaign=chicago) |
-| [Enova International](https://warmada.com/companies/enova-international?utm_source=github&utm_medium=list&utm_campaign=chicago) | Contact Center Department Manager - Customer Service | Chicago, IL | Oct 26 | [Apply](https://job-boards.greenhouse.io/enova/jobs/8324685) · [Find the hiring manager](https://warmada.com/job/enova-international-contact-center-department-manager-customer-service-f8e88e66-acd8-4895-86b3-5de4cdf21560?utm_source=github&utm_medium=list&utm_campaign=chicago) |
-| EPIC Brokers | Private Client Insurance Relationship Manager | 125 S Wacker Dr, Suite 3150, Chicago, IL 60606 | Oct 26 | [Apply](https://job-boards.greenhouse.io/edgewoodpartnersinsurancecenter/jobs/8906605002) · [Find the hiring manager](https://warmada.com/job/epic-brokers-private-client-insurance-relationship-manager-576e2e30-f5e1-4f2f-8cd4-37ec2b944ce5?utm_source=github&utm_medium=list&utm_campaign=chicago) |
