@@ -1,10 +1,10 @@
 # Chicago Jobs
 
-Open roles in Chicago: 132 roles at 52 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=chicago).** Last updated 2026-11-14.
+Open roles in Chicago: 131 roles at 51 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=chicago).** Last updated 2026-11-15.
 
-All 132 are listed below. Browse the newest on [warmada.com/jobs/chicago](https://warmada.com/jobs/chicago?utm_source=github&utm_medium=list&utm_campaign=chicago).
+All 131 are listed below. Browse the newest on [warmada.com/jobs/chicago](https://warmada.com/jobs/chicago?utm_source=github&utm_medium=list&utm_campaign=chicago).
 
-**By role:** Software Engineering (7) · Data (3) · Product Management (3) · Design (2) · Marketing (4) · Sales (42) · Customer Success (6) · Operations (9) · Finance (2) · HR & Recruiting (3) · Legal & Compliance (2) · Other (49)
+**By role:** Software Engineering (7) · Data (3) · Product Management (3) · Design (2) · Marketing (4) · Sales (42) · Customer Success (5) · Operations (9) · Finance (2) · HR & Recruiting (3) · Legal & Compliance (2) · Other (49)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Chicago. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
@@ -101,12 +101,11 @@ A bad listing? Email hello@warmada.com with the link.
 | [Stripe](https://warmada.com/companies/stripe?utm_source=github&utm_medium=list&utm_campaign=chicago) | Account Executive, Startups (Grower) | Chicago | Nov 2 | [Apply](https://stripe.com/jobs/search?gh_jid=8287920) · [Find the hiring manager](https://warmada.com/job/stripe-account-executive-startups-grower-c61b1b1e-84d7-482c-915a-38d6c705c27b?utm_source=github&utm_medium=list&utm_campaign=chicago) |
 | Neo4j | Sr. Enterprise Account Executive | Chicago, Illinois | Nov 2 | [Apply](https://boards.greenhouse.io/neo4j/jobs/4726475006?gh_jid=4726475006) · [Find the hiring manager](https://warmada.com/job/neo4j-sr-enterprise-account-executive-034badeb-a9d0-4118-8583-33b4101bfe2f?utm_source=github&utm_medium=list&utm_campaign=chicago) |
 
-## Customer Success (6)
+## Customer Success (5)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
 | [OpenGov](https://warmada.com/companies/opengov?utm_source=github&utm_medium=list&utm_campaign=chicago) | Implementation Consultant | US \| Illinois \| Chicago | Nov 13 | [Apply](https://jobs.ashbyhq.com/opengov/bae701be-f5d6-4f14-bc73-38eff1616e80) · [Find the hiring manager](https://warmada.com/job/opengov-implementation-consultant-ff6c766b-0ee5-4deb-b726-a285f0c53f0a?utm_source=github&utm_medium=list&utm_campaign=chicago) |
-| Scandit | Customer Success Engineer | Chicago | Nov 13 | [Apply](https://www.scandit.com/careers/job-description/?gh_jid=8300294) · [Find the hiring manager](https://warmada.com/job/scandit-customer-success-engineer-7929790c-bdb0-4f56-bc19-8997c4f2e695?utm_source=github&utm_medium=list&utm_campaign=chicago) |
 | [OpenGov](https://warmada.com/companies/opengov?utm_source=github&utm_medium=list&utm_campaign=chicago) | Manager II, Professional Services (Project Management) | US \| Illinois \| Chicago | Nov 10 | [Apply](https://jobs.ashbyhq.com/opengov/50d60bb7-9403-4923-8a74-28539b802ca4) · [Find the hiring manager](https://warmada.com/job/opengov-manager-ii-professional-services-project-management-3099fe6f-7a6f-488c-a795-c83fbb494154?utm_source=github&utm_medium=list&utm_campaign=chicago) |
 | [Robinhood](https://warmada.com/companies/robinhood?utm_source=github&utm_medium=list&utm_campaign=chicago) | Registration and Onboarding Specialist | Chicago, IL; Denver, CO; Lake Mary, FL; New York, NY | Nov 5 | [Apply](https://boards.greenhouse.io/robinhood/jobs/8356970?t=gh_src=&gh_jid=8356970) · [Find the hiring manager](https://warmada.com/job/robinhood-registration-and-onboarding-specialist-e688207a-5575-42aa-8273-ff81077c02e0?utm_source=github&utm_medium=list&utm_campaign=chicago) |
 | [84.51°](https://warmada.com/companies/84-51?utm_source=github&utm_medium=list&utm_campaign=chicago) | Senior Client Success Manager - Activation (P4663) | Cincinnati, OH; Chicago, IL | Nov 3 | [Apply](https://job-boards.greenhouse.io/8451/jobs/8928941002) · [Find the hiring manager](https://warmada.com/job/84-51-senior-client-success-manager-activation-p4663-ec4e0920-328f-41be-84f8-a517eeb12d6e?utm_source=github&utm_medium=list&utm_campaign=chicago) |
